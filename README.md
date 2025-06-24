@@ -18,7 +18,7 @@ ABC Gaming wants to identify and reward its most loyal players using a fair poin
 - Suggested improvements to point calculation fairness
 
 ## 📷 Project Snapshot
-![preview](Cover_page.png)
+![preview](Cover_page png.png)
 
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib)
